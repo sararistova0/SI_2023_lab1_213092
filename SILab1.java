@@ -7,6 +7,7 @@ public class SILab1 {
         List<Integer> result = new ArrayList<>();
         for (Integer el : list) {
             if (el % 2 == 0) {
+//popravka paaaaaaaak
                 result.add(el);
             }
         }
