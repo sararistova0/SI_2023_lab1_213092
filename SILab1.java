@@ -22,7 +22,7 @@ public class SILab1 {
         }
         return sum;
     }
-
+//promena tuka woo
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
