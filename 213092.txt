@@ -1,0 +1,17 @@
+1. se pravi lokalen remote so git init vo papkata
+2. se povrzuva so git remote add origin i linkot od dallechniot remote
+3. se koristi nano za da se napravat fileovite so readme i java klasata, posle sekoja se dodava poseben git add . i git commit -"poraka za commitot"
+4.se sinhroniziraat dvete so git push origin master
+5.se pravat tri razlichni branches so branch bug1, branch bug2, i branch bug2
+6. se vleguva na sekoja granka posebno so checkout i imeto na grankata, se pravi promena so nano, i posle se pravi add . pa commit so -m "poraka"
+7. se pravi push --all 
+8. posle toa se pravi checkout master
+9.se spojuvaat grankite so master preku mergebug 1 i merge bug2
+10. se pravi checkout bug3
+11. na bug3 se pravi git rebase master
+11. se vrakjame povtorno na master so checkout master
+12. se pravi merge so bug3
+13. git push --force --all
+14. se stavaat logs so git log>logs.txt
+15. povtorno se kreira nano i se kreira index 213092 kade shto pishuvam sega lol
+
