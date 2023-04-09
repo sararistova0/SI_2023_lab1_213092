@@ -6,6 +6,7 @@ public class SILab1 {
     public static List<Integer> filterOddNumbers(List<Integer> list) {
         List<Integer> result = new ArrayList<>();
         for (Integer el : list) {
+//fix here if smart
             if (el % 2 == 0) {
 //popravka paaaaaaaak
                 result.add(el);
